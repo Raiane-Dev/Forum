@@ -9,7 +9,7 @@
 
 <li>
   <strong>Database: </br /></strong>
-  <i>PHPMyAdmin.</i>
+  <i>MySql.</i>
 </li>
 
 <li>
