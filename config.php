@@ -1,5 +1,5 @@
 <?php
-    define('INCLUDE_PATH','http://localhost/Curso/Projeto/Forum/');
+    define('INCLUDE_PATH','http://localhost/Forum/');
     define('HOST','localhost');
     define('USER','root');
     define('PASS','');
